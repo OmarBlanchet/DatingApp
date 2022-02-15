@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace client.src.app._models
 {
-    public interface user.ts
+    public interface user
     {
             }
 }
